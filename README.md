@@ -1,9 +1,6 @@
 <h1 align="center">Caroline Camacho </h1>
 
 
-<p align="center">DESCRIÇÃO</p> 
-<br/>
-
 <h4 align="left">Languages and Tools:</h4>
 
 <p align="left"> 
